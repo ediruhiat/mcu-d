@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "6242c18b97740000bc013c14"
+  },
+  "id": "1",
+  "code": "A00",
+  "name": "CHOLERA",
+  "Type": "Infectious Disease"
+},{
+  "_id": {
+    "$oid": "6242c18b97740000bc013c15"
+  },
+  "id": "2045",
+  "code": "A00.0",
+  "name": "Cholera due to Vibrio cholerae 01, biovar cholerae",
+  "Type": "Infectious Disease"
+},{
+  "_id": {
+    "$oid": "6242c18b97740000bc013c16"
+  },
+  "id": "2046",
+  "code": "A00.1",
+  "name": "Cholera due to Vibrio cholerae 01, biovar eltor",
+  "Type": "Infectious Disease"
+},{
+  "_id": {
+    "$oid": "6242c18b97740000bc013c17"
+  },
+  "id": "2047",
+  "code": "A00.9",
+  "name": "Cholera, unspecified",
+  "Type": "Infectious Disease"
+},{
+  "_id": {
+    "$oid": "6242c18b97740000bc013c18"
+  },
+  "id": "80768",
+  "code": "A009",
+  "name": "Cholera, unspecified",
+  "Type": "Infectious Disease"
+},{
+  "_id": {
+    "$oid": "6242c18b97740000bc013c19"
+  },
+  "id": "2",
+  "code": "A01",
+  "name": "TYPHOID AND PARATHPHOID FEVER",
+  "Type": "Infectious Disease"
+},{
+  "_id": {
+    "$oid": "6242c18b97740000bc013c1a"
+  },
+  "id": "2048",
+  "code": "A01.0",
+  "name": "Typhoid fever",
+  "Type": "Infectious Disease"
+},{
+  "_id": {
+    "$oid": "6242c18b97740000bc013c1b"
+  },
+  "id": "12158",
+  "code": "A01.00",
+  "name": "Typhoid fever, unspecified",
+  "Type": "Infectious Disease"
+},{
+  "_id": {
+    "$oid": "6242c18b97740000bc013c1c"
+  },
+  "id": "12159",
+  "code": "A01.01",
+  "name": "Typhoid meningitis",
+  "Type": "Infectious Disease"
+},{
+  "_id": {
+    "$oid": "6242c18b97740000bc013c1d"
+  },
+  "id": "12160",
+  "code": "A01.02",
+  "name": "Typhoid fever with heart involvement",
+  "Type": "Infectious Disease"
+}]
